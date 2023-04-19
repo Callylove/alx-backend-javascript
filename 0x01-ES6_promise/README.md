@@ -1,0 +1,2 @@
+learning promise on javascript
+
